@@ -1,7 +1,7 @@
 ### Hey 👋, I'm [Prasad Banagar!](https://github.com/PrasadBanagar)
 
 
-<a href="www.linkedin.com/in/prasad-banagar">
+<a href="https://www.linkedin.com/in/prasad-banagar-22523920a/">
   <img align="left" alt="Prasad's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/711prasad/">
