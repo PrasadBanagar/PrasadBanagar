@@ -24,9 +24,9 @@ Hi, I'm Prasad Banagar, Skilled in full-stack Java development with training fro
 - 🎓 Graduated in 2023 from MIT-ADT University,Pune.
 -  B.Tech, Mechanical Engineering.
 -  Web development, Front-ent development, Back-end development And DBMS
--  Java, Angular, React Js, Node js, TypeScript  
--  Html, CSS, Java Script, JQuery, BootStrap, Tailwind CSS
--  DBMS, RDBMS, Oracle Database, MySQL, MongoDB
+-  Java, Hibernate, Spring Framework, Spring Boot, Servlet, JDBC, JSP 
+-  Html, CSS, Java Script, Angular, TypeScript, BootStrap, Tailwind CSS
+-  RDBMS, Oracle Database, MySQL, MongoDB
 -  Git, Github
 
 - 💬 Ask me about anything, I am happy to help
